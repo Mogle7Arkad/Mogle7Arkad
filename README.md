@@ -1,7 +1,7 @@
 ## Hey there! A bit of Me....?
 
 I am a  Digital enthusiast passionate about the web and how it works.
-I'm learning full-stack web development through <a href="https://www.theodinproject.com/">The Odin Project</a> as well as been mentored by group of dedicated and expenrienced selfless developers, ## TOP-Dev Mentors. 
+I'm learning full-stack web development through <a href="https://www.theodinproject.com/">The Odin Project</a> as well as been mentored by group of dedicated and expenrienced selfless developers, TOP-Dev Mentors. 
 
 🌱 I'm currently learning javascript and creating some elementary projects as per the course work demands. <br>
 
@@ -27,7 +27,6 @@ I'm learning full-stack web development through <a href="https://www.theodinproj
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Mogle7Arkad&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mogle7Arkad&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tennjugu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!--
