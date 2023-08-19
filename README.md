@@ -1,13 +1,11 @@
-##Hey there! 
-
-###A bit of Me..
+## Hey there! A bit of Me....?
 
 I am a  Digital enthusiast passionate about the web and how it works.
-I'm learning full-stack web development through <a href="https://www.theodinproject.com/">The Odin Project</a>. 
+I'm learning full-stack web development through <a href="https://www.theodinproject.com/">The Odin Project</a> as well as been mentored by group of dedicated and expenrienced selfless developers, ## TOP-Dev Mentors. 
 
 🌱 I'm currently learning javascript and creating some elementary projects as per the course work demands. <br>
 
-🤝 I'd love to collaborate on projects to help give me a grip of real world experience hence reveal my weakness and propel me to strengthen my abilities. <br>
+🤝 I'd love to collaborate on projects to help give me a grip of real world experience hence reveal my weakness thereby motivate me to strengthen my abilities. <br>
 
 ⚡ Fun fact: When i am not coding: I read books, surf the internet, play card games or see a movie.
 
