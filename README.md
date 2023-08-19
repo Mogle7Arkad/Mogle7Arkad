@@ -9,7 +9,7 @@ I'm learning full-stack web development through <a href="https://www.theodinproj
 
 🤝 I'd love to collaborate on projects to help give me a grip of real world experience hence reveal my weakness and propel me to strengthen my abilities. <br>
 
-⚡ Fun fact: I love books, play card games, love travelinga and adventures.
+⚡ Fun fact: When i am not coding: I read books, surf the internet, play card games or see a movie.
 
 🔭 I have broad work experience on different fields and spheres of life. Want to know more? Meet me on my social media!
 
