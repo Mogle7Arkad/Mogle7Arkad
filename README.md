@@ -1,6 +1,10 @@
-## Ali George 
+Hi, I am ## Ali George. 
+###A bit of Me..
+I am a ### Digital enthusiast passionate about the web and how it works.
+I'm learning full-stack web development through <a href="https://www.theodinproject.com/">The Odin Project</a>. 
 
-### Digital enthusiast
+📚 I'm currently learning javascript and creating some elementary projects as per the course work demands. <br>
+🤝 I'd love to collaborate on projects to help give me a grip of real world experience hence reveal my weakness and propel me to strengthen my abilities. <br>
 <!--
 **Mogle7Arkad/Mogle7Arkad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
