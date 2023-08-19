@@ -1,6 +1,6 @@
-Hi, I am ## Ali George. 
+##Hey there! 
 ###A bit of Me..
-I am a ### Digital enthusiast passionate about the web and how it works.
+I am a  Digital enthusiast passionate about the web and how it works.
 I'm learning full-stack web development through <a href="https://www.theodinproject.com/">The Odin Project</a>. 
 
 📚 I'm currently learning javascript and creating some elementary projects as per the course work demands. <br>
