@@ -1,11 +1,10 @@
 ## Hey there! A bit of Me....?
 
 I am a  Digital enthusiast passionate about the web and how it works.
-I'm learning full-stack web development through <a href="https://www.theodinproject.com/">The Odin Project</a> as well as been mentored by group of dedicated and expenrienced selfless developers, TOP-Dev Mentors. 
 
-🌱 I'm currently learning javascript and creating some elementary projects as per the course work demands. <br>
+🌱 I'm currently exploring and improving my skills and creating projects as per the course work demands. <br>
 
-🤝 I'd love to collaborate on projects to help give me a grip of real world experience hence reveal my weakness thereby motivate me to strengthen my abilities. <br>
+🤝 I'm open to opportunities and collaboration. <br>
 
 ⚡ Fun fact: When i am not coding: I read books, surf the internet, play card games or see a movie.
 
@@ -13,8 +12,7 @@ I'm learning full-stack web development through <a href="https://www.theodinproj
 
 ### Connect with me:
 
-[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/e877a3e980fe893f5ccff40027a746f7f3e725a5/img/linkedin-light.svg)](https://www.linkedin.com/in/aligeorge/)
-&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aligeorge/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AliGeor58937363) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/el.bona94) 
 
 ### Languages and Tools:
 
