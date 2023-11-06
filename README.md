@@ -1,7 +1,6 @@
 ## Hi there. I am George 👋.
-
  ### About Me
-----
+---
 
 I am a  Digital enthusiast passionate about the web and how it works.
 
@@ -16,14 +15,14 @@ I am a  Digital enthusiast passionate about the web and how it works.
 ---
 
 ### Connect with me:
-----
+---
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aligeorge/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AliGeor58937363) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/el.bona94) 
 
 ---
 
 ### Languages and Tools:
-----
+---
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -35,7 +34,7 @@ I am a  Digital enthusiast passionate about the web and how it works.
 ---
 
 ### 📊 GitHub Stats:
-----
+---
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mogle7Arkad&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tennjugu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
