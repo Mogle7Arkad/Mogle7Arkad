@@ -1,4 +1,7 @@
-## Hey there! A bit of Me....?
+## Hi there. I am George 👋.
+---
+ ### About Me
+---
 
 I am a  Digital enthusiast passionate about the web and how it works.
 
@@ -9,6 +12,8 @@ I am a  Digital enthusiast passionate about the web and how it works.
 ⚡ Fun fact: When i am not coding: I read books, surf the internet, play card games or see a movie.
 
 🔭 I have broad work experience on different fields and spheres of life. Want to know more? Meet me on my social media!
+
+---
 
 ### Connect with me:
 
