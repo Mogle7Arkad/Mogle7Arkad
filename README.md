@@ -8,7 +8,7 @@ I am a  Digital enthusiast passionate about the web and how it works.
 
 🤝 I'm open to opportunities and collaboration. <br>
 
-⚡ Fun fact: When i am not coding: I read books, surf the internet, play card games or see a movie.
+⚡ Fun fact: When not coding: I read books, surf the internet, play card games or see a movie.
 
 🔭 I have broad work experience on different fields and spheres of life. Want to know more? Meet me on my social media!
 
@@ -25,6 +25,8 @@ I am a  Digital enthusiast passionate about the web and how it works.
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Tailwind" width="26px" src="./svg/tailwind-svgrepo-com.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="./svg/react-svgrepo-com.svg" style="padding-right:10px;" />
 <br/><br/>
 
 ---
@@ -34,17 +36,3 @@ I am a  Digital enthusiast passionate about the web and how it works.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tennjugu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<!--
-**Mogle7Arkad/Mogle7Arkad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
