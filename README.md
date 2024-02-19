@@ -2,15 +2,15 @@
 ---
  ### About Me
 
-I am a  Digital enthusiast passionate about the web and how it works.
+A Front End Web Developer.
 
-🌱 I'm currently exploring and improving my skills and creating projects as per the course work demands. <br>
+🌱 I'm currently exploring and actively improving my skills and creating projects. <br>
 
 🤝 I'm open to opportunities and collaboration. <br>
 
-⚡ Fun fact: When not coding: I read books, surf the internet, play card games or see a movie.
+⚡ Fun fact: I love coding, I read books, I play board games, card games and badminton, I love people 😊.
 
-🔭 I have broad work experience on different fields and spheres of life. Want to know more? Meet me on my social media!
+🔭 I have broad work experience on different fields and spheres of life. Socialize with me on social media. 
 
 ---
 ### Connect with me:
